@@ -3,12 +3,14 @@ aad
 about
 also
 ami
+amp
 ana
 anothor
 anu
 aro
 aua
 aud
+bave
 caunot
 con
 dis
@@ -59,6 +61,7 @@ thee
 ther
 thev
 thi
+thia
 thian
 thie
 third
