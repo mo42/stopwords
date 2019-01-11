@@ -26,6 +26,7 @@ area
 areas
 arent
 aren't
+aren
 around
 as
 ask
@@ -74,10 +75,12 @@ come
 could
 couldnt
 couldn't
+couldn
 d
 did
 didnt
 didn't
+didn
 differ
 different
 differently
@@ -85,10 +88,12 @@ do
 does
 doesnt
 doesn't
+doesn
 doing
 done
 dont
 don't
+don
 down
 downed
 downing
@@ -156,12 +161,15 @@ h
 had
 hadnt
 hadn't
+hadn
 has
 hasnt
 hasn't
+hasn
 have
 havent
 haven't
+haven
 having
 he
 he'd
@@ -201,6 +209,7 @@ into
 is
 isnt
 isn't
+isn
 it
 its
 it's
@@ -253,6 +262,7 @@ much
 must
 mustnt
 mustn't
+mustn
 my
 myself
 n
@@ -355,6 +365,7 @@ several
 shall
 shant
 shan't
+shan
 she
 she'd
 she'll
@@ -363,6 +374,7 @@ she's
 should
 shouldnt
 shouldn't
+shouldn
 show
 showed
 showing
@@ -454,6 +466,7 @@ wants
 was
 wasnt
 wasn't
+wasn
 way
 ways
 we
@@ -466,6 +479,7 @@ were
 we're
 werent
 weren't
+weren
 we've
 what
 whats
@@ -501,6 +515,7 @@ works
 would
 wouldnt
 wouldn't
+wouldn
 x
 y
 year
